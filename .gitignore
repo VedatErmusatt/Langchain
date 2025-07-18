@@ -1,0 +1,5 @@
+# Ortam dosyaları
+.env
+
+# Python
+__pycache__/
